@@ -1,0 +1,59 @@
+html {
+   max-height: 120vh;
+   padding: 0px;
+}
+
+.page-holder {
+   min-height: 100vh;
+   scroll-behavior: smooth;
+}
+
+.bg-cover {
+   background-size: cover !important;
+   background-image: url('images/backpage.jpeg');
+   height: 100%;
+}
+
+.navbar-nav .active a {
+   border: 2px solid #D14233;
+}
+
+.yie {
+   background-color: red;
+}
+.kawo :hover {
+   border: 3px solid #D14233;
+   color: #b33939;
+}
+
+h1 {
+   font-family: Noto sans Jp;
+}
+
+h3 {
+   font-size: 35px;
+   font-family: Noto Sans JP;
+}
+
+.text-btn {
+   width: 275px;
+   height: 75px;
+}
+
+.navnav {
+   background: transparent;
+   color: #D14233;
+   padding: 0;
+   min-height: 0;
+   height: 110px;
+   position: relative;
+   z-index: 1100;
+}
+/*
+.navnav {
+   background-color:rgb(59, 12, 12);
+}*/
+
+.footer {
+   background-color:rgb(59, 12, 12); 
+}

@@ -1,0 +1,50 @@
+html {
+   max-height: 120vh;
+   padding: 0px;
+}
+
+.page-holder {
+   min-height: 100vh;
+}
+
+.form-control {
+   width: 100%;
+}
+
+.navbar-nav .active a {
+   border: 2px solid #D14233;
+}
+
+.startup-text {
+   font-size: 18px;
+   font-family: Noto Sans Jp;
+   line-height: 20px;
+}
+
+
+.img-thumbnail {
+   height: 125px;
+   width: 125px;
+}
+
+.kawo :hover {
+   border: 3px solid #D14233;
+   color: #b33939;
+}
+
+.text {
+   top: 100px;
+}
+
+.text-btn {
+   width: 275px;
+   height: 75px;
+}
+
+.navnav {
+   background-color:rgb(59, 12, 12);
+}
+
+.footer {
+   background-color:rgb(59, 12, 12); 
+}
